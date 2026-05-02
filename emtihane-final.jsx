@@ -288,7 +288,7 @@ async function gradeOne(enonce,reponse,corrige,pts,ia_prompt){
     "(كرر لكل عنصر رئيسي في التمرين، اقتبس من إجابة الطالب عند الحاجة)";
 
   // URL proxy Railway - remplacer par votre URL apres deploiement
-  var PROXY_URL="https://outstanding-spirit-production.up.railway.app/"
+  var PROXY_URL="https://outstanding-spirit-production.up.railway.app"
 
   try{
     var response;
